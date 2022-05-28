@@ -1,0 +1,16 @@
+Document
+workerEnv.init() ok /etc/httpd/conf/workers2.properties mod_jk child workerEnv in error state 6
+jk2_init() Found child 6725 in scoreboard slot 10 jk2_init() Found child 6726 in scoreboard slot 8
+jk2_init() Found child 6728 in scoreboard slot 6 workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6 mod_jk child workerEnv in error state 6
+mod_jk child workerEnv in error state 6 jk2_init() Found child 6736 in scoreboard slot 10
+jk2_init() Found child 6733 in scoreboard slot 7 jk2_init() Found child 6734 in scoreboard slot 9
+workerEnv.init() ok /etc/httpd/conf/workers2.properties workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6 jk2_init() Found child 6738 in scoreboard slot 6
+jk2_init() Found child 6741 in scoreboard slot 9 jk2_init() Found child 6740 in scoreboard slot 7
+jk2_init() Found child 6737 in scoreboard slot 8 workerEnv.init() ok /etc/httpd/conf/workers2.properties
+workerEnv.init() ok /etc/httpd/conf/workers2.properties workerEnv.init() ok /etc/httpd/conf/workers2.properties
+mod_jk child workerEnv in error state 6 mod_jk child workerEnv in error state 7
+mod_jk child workerEnv in error state 7 jk2_init() Found child 6748 in scoreboard slot 6
+jk2_init() Found child 6744 in scoreboard slot 10 jk2_init() Found child 6745 in scoreboard slot 8
